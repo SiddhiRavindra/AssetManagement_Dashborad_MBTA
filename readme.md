@@ -145,9 +145,8 @@ For questions or support, please open an issue in the GitHub repository.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
-
 - MBTA Operations Team for data validation
 - Asset Management Division for requirements gathering
-- IT Department for database integration support
+
 
 ---
